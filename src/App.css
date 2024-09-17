@@ -1,0 +1,39 @@
+.header {
+  background-color: red;
+}
+.h2 {
+  display: flex;
+  justify-content: center;
+  color: yellow;
+}
+.row {
+  padding-top: 1px;
+  padding-bottom: 4px;
+  justify-content: center;
+}
+.btn-1 {
+  background-color: green;
+  color: white;
+  padding: 4px;
+  border: white;
+}
+.form-control {
+  background-color: pink;
+  padding: 1px;
+}
+
+.border-9 {
+  border-radius: 20px;
+
+  margin-top: 20px;
+}
+
+.h5 {
+  display : flex; 
+  justify-content:center;
+  margin-top : 100px;
+}
+
+.rad {
+  border-radius: 15px;
+}
